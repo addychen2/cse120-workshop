@@ -17,15 +17,15 @@ List main objectives, problems you aim to solve.
 
 ### Features
 
-- [x] Feature 1
-- [x] Feature 2
-- [ ] Feature 3
+- [x] Bill Processing (Admin Section) 
+- [x] Bam
+- [ ] SSO For Signing into App 
 
 ### Software Stack / Technologies Used
 
-- Language: ...
-- Framework: ...
-- Database: ...
+- Language: python, sql, javascript, html, css
+- Framework: react
+- Database: aws
 - etc...
 
 ## Quickstart
