@@ -1,15 +1,15 @@
 <div align="center">
 
-# Rapid Prototyping Services Phase 2
+# Rapid Prototyping Services (Phase 2)
 
-(Phase 2)
+(Description)
 
 </div>
 
 
 ## Overview
 
-Project details
+(Project details)
 
 ### Goals
 
