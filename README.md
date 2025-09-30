@@ -1,8 +1,8 @@
 <div align="center">
 
-# Project Title
+# Rapid Prototyping Services Phase 2
 
-Project Description
+(Phase 2)
 
 </div>
 
