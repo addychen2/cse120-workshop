@@ -9,7 +9,7 @@
 
 ## Overview
 
-(Project details)
+Something
 
 ### Goals
 
