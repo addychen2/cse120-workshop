@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+app/__init__.py
+app/main.py
+cse120_workshop.egg-info/PKG-INFO
+cse120_workshop.egg-info/SOURCES.txt
+cse120_workshop.egg-info/dependency_links.txt
+cse120_workshop.egg-info/requires.txt
+cse120_workshop.egg-info/top_level.txt
